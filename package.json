@@ -24,7 +24,7 @@
     "mail-listener2-updated": "^0.3.3",
     "mailparser": "^2.7.7",
     "moment": "^2.22.1",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.7",
     "numeral": "^2.0.6",
     "ora": "^2.1.0",
     "promise-retry": "^1.1.1"
